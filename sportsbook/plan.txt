@@ -1,0 +1,5 @@
+PHASE 1 (starting off with 2-man powerplay only!!!):
+User will input player name, stat proj, & bet amount. Amount won or lost will be logged into the database and shown in a log along with bet details.
+
+Classes: 
+Database
